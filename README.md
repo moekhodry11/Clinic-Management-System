@@ -1,2 +1,2 @@
 # Clinic Management System
-ITI Graduation Project
+ITI Graduation Project - MVC version
