@@ -1,6 +1,6 @@
 # User & sensitive config
-Clincal-Management-System/Clincal-Management-System/appsettings.json
-Clincal-Management-System/Clincal-Management-System/appsettings.Development.json
+appsettings.json
+appsettings.Development.json
 secrets.json
 .env
 .env.*
