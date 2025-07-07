@@ -1,0 +1,22 @@
+# User & sensitive config
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env
+.env.*
+
+# Build output
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# Entity Framework
+Migrations/        # Only if you don't want to share EF migrations
+
+# Logs and temp
+*.log
+logs/
