@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\Rider_Projects\\Clinic\\Clinic.Infastructure\\Clinic.Infastructure.csproj": {}
+  },
+  "projects": {
+    "f:\\Rider_Projects\\Clinic\\Clinic.Application\\Clinic.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Rider_Projects\\Clinic\\Clinic.Application\\Clinic.Application.csproj",
+        "projectName": "Clinic.Application",
+        "projectPath": "f:\\Rider_Projects\\Clinic\\Clinic.Application\\Clinic.Application.csproj",
+        "packagesPath": "C:\\Users\\MAK\\.nuget\\packages\\",
+        "outputPath": "f:\\Rider_Projects\\Clinic\\Clinic.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "D:\\Prog\\Syncfusion\\Essential Studio\\WPF\\29.1.33\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\Clinic.Domain.csproj": {
+                "projectPath": "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\Clinic.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\Clinic.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\Clinic.Domain.csproj",
+        "projectName": "Clinic.Domain",
+        "projectPath": "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\Clinic.Domain.csproj",
+        "packagesPath": "C:\\Users\\MAK\\.nuget\\packages\\",
+        "outputPath": "f:\\Rider_Projects\\Clinic\\Clinic.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "D:\\Prog\\Syncfusion\\Essential Studio\\WPF\\29.1.33\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\Rider_Projects\\Clinic\\Clinic.Infastructure\\Clinic.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Rider_Projects\\Clinic\\Clinic.Infastructure\\Clinic.Infastructure.csproj",
+        "projectName": "Clinic.Infastructure",
+        "projectPath": "f:\\Rider_Projects\\Clinic\\Clinic.Infastructure\\Clinic.Infastructure.csproj",
+        "packagesPath": "C:\\Users\\MAK\\.nuget\\packages\\",
+        "outputPath": "f:\\Rider_Projects\\Clinic\\Clinic.Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "D:\\Prog\\Syncfusion\\Essential Studio\\WPF\\29.1.33\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "f:\\Rider_Projects\\Clinic\\Clinic.Application\\Clinic.Application.csproj": {
+                "projectPath": "f:\\Rider_Projects\\Clinic\\Clinic.Application\\Clinic.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

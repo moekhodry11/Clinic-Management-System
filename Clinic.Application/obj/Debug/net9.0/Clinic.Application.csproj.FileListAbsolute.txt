@@ -1,0 +1,5 @@
+C:\Users\karee\Desktop\ClinicV2\Clinic\Clinic.Application\obj\Debug\net9.0\Clinic.Application.csproj.AssemblyReference.cache
+C:\Users\karee\Desktop\ClinicV2\Clinic\Clinic.Application\obj\Debug\net9.0\Clinic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karee\Desktop\ClinicV2\Clinic\Clinic.Application\obj\Debug\net9.0\Clinic.Application.AssemblyInfoInputs.cache
+C:\Users\karee\Desktop\ClinicV2\Clinic\Clinic.Application\obj\Debug\net9.0\Clinic.Application.AssemblyInfo.cs
+C:\Users\karee\Desktop\ClinicV2\Clinic\Clinic.Application\obj\Debug\net9.0\Clinic.Application.csproj.CoreCompileInputs.cache
